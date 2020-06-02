@@ -1,0 +1,41 @@
+html{
+    background-color: #B4CCB4;
+}
+
+#title{
+    text-align: center;
+}
+#welcome{
+    text-align: center;
+    
+}
+#status{
+    cursor: pointer;
+    display: block;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+h1{
+    background-image:url("https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2018/08/17120635/bigstock-Search-with-magnifying-glass-118016582-700x467.jpg");
+
+    background-position: center;
+    font-family: helvetica;
+    font-size:100px;
+    font-weight: bold;
+    color: teal;
+    text-align:center;
+
+}
+h5{
+    font-family: helvetica;
+    font-size: 25px;
+    font-weight:bold;
+    color: white;
+    display: block;
+}
+.background{
+    background-color: teal;
+}
+#time{
+    font-family: sans-serif;
+}
